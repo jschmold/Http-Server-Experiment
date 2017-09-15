@@ -1,0 +1,11 @@
+C:\Users\ImFlu\Desktop\Programming\messhall\CSharp\Httplistener Experiment 2\bin\Debug\netcoreapp2.0\Httplistener Experiment 2.deps.json
+C:\Users\ImFlu\Desktop\Programming\messhall\CSharp\Httplistener Experiment 2\bin\Debug\netcoreapp2.0\Httplistener Experiment 2.runtimeconfig.json
+C:\Users\ImFlu\Desktop\Programming\messhall\CSharp\Httplistener Experiment 2\bin\Debug\netcoreapp2.0\Httplistener Experiment 2.runtimeconfig.dev.json
+C:\Users\ImFlu\Desktop\Programming\messhall\CSharp\Httplistener Experiment 2\bin\Debug\netcoreapp2.0\Httplistener Experiment 2.dll
+C:\Users\ImFlu\Desktop\Programming\messhall\CSharp\Httplistener Experiment 2\bin\Debug\netcoreapp2.0\Httplistener Experiment 2.pdb
+C:\Users\ImFlu\Desktop\Programming\messhall\CSharp\Httplistener Experiment 2\obj\Debug\netcoreapp2.0\Httplistener Experiment 2.csproj.CoreCompileInputs.cache
+C:\Users\ImFlu\Desktop\Programming\messhall\CSharp\Httplistener Experiment 2\obj\Debug\netcoreapp2.0\Httplistener Experiment 2.AssemblyInfoInputs.cache
+C:\Users\ImFlu\Desktop\Programming\messhall\CSharp\Httplistener Experiment 2\obj\Debug\netcoreapp2.0\Httplistener Experiment 2.AssemblyInfo.cs
+C:\Users\ImFlu\Desktop\Programming\messhall\CSharp\Httplistener Experiment 2\obj\Debug\netcoreapp2.0\Httplistener Experiment 2.dll
+C:\Users\ImFlu\Desktop\Programming\messhall\CSharp\Httplistener Experiment 2\obj\Debug\netcoreapp2.0\Httplistener Experiment 2.pdb
+C:\Users\ImFlu\Desktop\Programming\messhall\CSharp\Httplistener Experiment 2\obj\Debug\netcoreapp2.0\Httplistener Experiment 2.csprojResolveAssemblyReference.cache
